@@ -1,0 +1,24 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/myblog",
+    "prod_uri": "mysql://root:@localhost/myblog",
+    "fb_url": "https://facebook.com/myblog",
+    "tw_url": "https://twitter.com/myblog",
+    "gh_url": "https://github.com/myblog",
+    "blog_name": "Poetry Blog",
+    "tagline": "A Blog liked by Poetry",
+    "about_text": "My name is Rahul gupta and I writes the blog on poetry",
+    "no_of_posts": 4,
+    "login_image": "login.svg",
+    "admin_user": "rahul",
+    "admin_password": "gupta",
+    "upload_location": "C:\\Users\\hp\\PycharmProjects\\pythonProject1\\static"
+
+  }
+
+
+
+}
